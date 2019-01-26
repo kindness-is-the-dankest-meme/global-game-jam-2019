@@ -1,4 +1,5 @@
 # Visual Studio 2015 user specific files
+.vscode/
 .vs/
 
 # Visual Studio 2015 database file
