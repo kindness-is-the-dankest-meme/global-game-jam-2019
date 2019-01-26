@@ -1,0 +1,1478 @@
+﻿Log file open, 01/26/19 12:40:44
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GoingHome
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.310727
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.214s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.01.26-17.40.44:513][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.01.26-17.40.44:513][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.01.26-17.40.44:513][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/chris/Documents/Unreal Projects/GoingHome/Saved/Config/Windows/Engine.ini]
+[2019.01.26-17.40.44:513][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.01.26-17.40.44:513][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2019.01.26-17.40.44:513][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2019.01.26-17.40.44:513][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2019.01.26-17.40.44:513][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2019.01.26-17.40.44:513][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2019.01.26-17.40.44:513][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2019.01.26-17.40.44:513][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2019.01.26-17.40.44:513][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.01.26-17.40.44:513][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.01.26-17.40.44:513][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.01.26-17.40.44:513][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2019.01.26-17.40.44:513][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.01.26-17.40.44:513][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.01.26-17.40.44:513][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.01.26-17.40.44:513][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.01.26-17.40.44:513][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2019.01.26-17.40.44:513][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2019.01.26-17.40.44:514][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2019.01.26-17.40.44:514][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2019.01.26-17.40.44:514][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2019.01.26-17.40.44:514][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2019.01.26-17.40.44:514][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.01.26-17.40.44:514][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2019.01.26-17.40.44:514][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.01.26-17.40.44:514][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2019.01.26-17.40.44:514][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2019.01.26-17.40.44:514][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.01.26-17.40.44:514][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2019.01.26-17.40.44:514][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.01.26-17.40.44:514][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.01.26-17.40.44:514][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2019.01.26-17.40.44:514][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2019.01.26-17.40.44:514][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2019.01.26-17.40.44:514][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2019.01.26-17.40.44:514][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2019.01.26-17.40.44:514][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.01.26-17.40.44:514][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:1]]
+[2019.01.26-17.40.44:514][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.01.26-17.40.44:514][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2019.01.26-17.40.44:514][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2019.01.26-17.40.44:514][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:1]]
+[2019.01.26-17.40.44:514][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.01.26-17.40.44:514][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2019.01.26-17.40.44:514][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:2]]
+[2019.01.26-17.40.44:514][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2019.01.26-17.40.44:514][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2019.01.26-17.40.44:514][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2019.01.26-17.40.44:514][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.01.26-17.40.44:514][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.01.26-17.40.44:515][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:1]]
+[2019.01.26-17.40.44:515][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2019.01.26-17.40.44:515][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2019.01.26-17.40.44:515][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.01.26-17.40.44:515][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.01.26-17.40.44:515][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.01.26-17.40.44:515][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2019.01.26-17.40.44:515][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2019.01.26-17.40.44:515][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2019.01.26-17.40.44:515][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.01.26-17.40.44:515][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2019.01.26-17.40.44:515][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.01.26-17.40.44:515][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2019.01.26-17.40.44:515][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2019.01.26-17.40.44:515][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2019.01.26-17.40.44:515][  0]LogConfig: Setting CVar [[vr.MonoscopicFarField:0]]
+[2019.01.26-17.40.44:515][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2019.01.26-17.40.44:515][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2019.01.26-17.40.44:515][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.01.26-17.40.44:515][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2019.01.26-17.40.44:515][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2019.01.26-17.40.44:515][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2019.01.26-17.40.44:515][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2019.01.26-17.40.44:515][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.01.26-17.40.44:515][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2019.01.26-17.40.44:515][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2019.01.26-17.40.44:515][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2019.01.26-17.40.44:515][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2019.01.26-17.40.44:515][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2019.01.26-17.40.44:516][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2019.01.26-17.40.44:516][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.01.26-17.40.44:516][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.01.26-17.40.44:516][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2019.01.26-17.40.44:516][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2019.01.26-17.40.44:516][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2019.01.26-17.40.44:516][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/chris/Documents/Unreal Projects/GoingHome/Saved/Config/Windows/Engine.ini]
+[2019.01.26-17.40.44:516][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/chris/Documents/Unreal Projects/GoingHome/Saved/Config/Windows/Engine.ini]
+[2019.01.26-17.40.44:516][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.01.26-17.40.44:516][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.01.26-17.40.44:516][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.01.26-17.40.44:516][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.01.26-17.40.44:516][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.01.26-17.40.44:516][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.01.26-17.40.44:516][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.01.26-17.40.44:516][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.01.26-17.40.44:516][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.01.26-17.40.44:516][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.01.26-17.40.44:516][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.01.26-17.40.44:516][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.01.26-17.40.44:516][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.01.26-17.40.44:516][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/chris/Documents/Unreal Projects/GoingHome/Saved/Config/Windows/Engine.ini]
+[2019.01.26-17.40.44:516][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.01.26-17.40.44:516][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.01.26-17.40.44:516][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.01.26-17.40.44:516][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.01.26-17.40.44:516][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.01.26-17.40.44:516][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.01.26-17.40.44:516][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.01.26-17.40.44:516][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.01.26-17.40.44:516][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.01.26-17.40.44:517][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.01.26-17.40.44:517][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.01.26-17.40.44:517][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.01.26-17.40.44:517][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.01.26-17.40.44:517][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.01.26-17.40.44:517][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/chris/Documents/Unreal Projects/GoingHome/Saved/Config/Windows/Engine.ini]
+[2019.01.26-17.40.44:517][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/chris/Documents/Unreal Projects/GoingHome/Saved/Config/Windows/Engine.ini]
+[2019.01.26-17.40.44:523][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/chris/Documents/Unreal Projects/GoingHome/Saved/Config/Windows/Scalability.ini]
+[2019.01.26-17.40.44:523][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.26-17.40.44:523][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.26-17.40.44:523][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/chris/Documents/Unreal Projects/GoingHome/Saved/Config/Windows/Scalability.ini]
+[2019.01.26-17.40.44:523][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.26-17.40.44:523][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/chris/Documents/Unreal Projects/GoingHome/Saved/Config/Windows/Scalability.ini]
+[2019.01.26-17.40.44:523][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.26-17.40.44:523][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.26-17.40.44:523][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.26-17.40.44:523][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.26-17.40.44:523][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.26-17.40.44:523][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.26-17.40.44:523][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.26-17.40.44:523][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.26-17.40.44:523][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.26-17.40.44:524][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.26-17.40.44:524][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.26-17.40.44:524][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.26-17.40.44:524][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.26-17.40.44:524][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.26-17.40.44:524][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.26-17.40.44:524][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.26-17.40.44:524][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.26-17.40.44:524][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.26-17.40.44:524][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/chris/Documents/Unreal Projects/GoingHome/Saved/Config/Windows/Scalability.ini]
+[2019.01.26-17.40.44:524][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.26-17.40.44:524][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.26-17.40.44:524][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.26-17.40.44:524][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.26-17.40.44:524][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.26-17.40.44:524][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.26-17.40.44:524][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.26-17.40.44:524][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.26-17.40.44:524][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.26-17.40.44:524][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.26-17.40.44:524][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.26-17.40.44:524][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.26-17.40.44:524][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.26-17.40.44:524][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.26-17.40.44:524][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.26-17.40.44:524][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.26-17.40.44:524][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.26-17.40.44:524][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.26-17.40.44:524][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.26-17.40.44:524][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.26-17.40.44:525][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.26-17.40.44:525][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.26-17.40.44:525][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.26-17.40.44:525][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.26-17.40.44:525][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.26-17.40.44:525][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.26-17.40.44:525][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.26-17.40.44:525][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.26-17.40.44:525][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.26-17.40.44:525][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.26-17.40.44:525][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/chris/Documents/Unreal Projects/GoingHome/Saved/Config/Windows/Scalability.ini]
+[2019.01.26-17.40.44:525][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.26-17.40.44:525][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.26-17.40.44:525][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.26-17.40.44:525][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.26-17.40.44:525][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.26-17.40.44:525][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.26-17.40.44:525][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.26-17.40.44:525][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.26-17.40.44:525][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/chris/Documents/Unreal Projects/GoingHome/Saved/Config/Windows/Scalability.ini]
+[2019.01.26-17.40.44:525][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.26-17.40.44:525][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.26-17.40.44:525][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.26-17.40.44:525][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.26-17.40.44:525][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.26-17.40.44:525][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.26-17.40.44:525][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.26-17.40.44:525][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.26-17.40.44:525][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.26-17.40.44:525][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.26-17.40.44:525][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.26-17.40.44:526][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.26-17.40.44:526][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.26-17.40.44:526][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/chris/Documents/Unreal Projects/GoingHome/Saved/Config/Windows/Scalability.ini]
+[2019.01.26-17.40.44:526][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.26-17.40.44:526][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.26-17.40.44:526][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.26-17.40.44:526][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.26-17.40.44:554][  0]LogHAL: Display: Platform has ~ 16 GB [17059516416 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.26-17.40.44:554][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.01.26-17.40.44:554][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.26-17.40.44:555][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/chris/Documents/Unreal Projects/GoingHome/Saved/Config/Windows/Scalability.ini]
+[2019.01.26-17.40.44:555][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.26-17.40.44:555][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.26-17.40.44:555][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/chris/Documents/Unreal Projects/GoingHome/Saved/Config/Windows/Scalability.ini]
+[2019.01.26-17.40.44:555][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.26-17.40.44:555][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/chris/Documents/Unreal Projects/GoingHome/Saved/Config/Windows/Scalability.ini]
+[2019.01.26-17.40.44:555][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.26-17.40.44:555][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.26-17.40.44:555][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.26-17.40.44:555][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.26-17.40.44:555][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.26-17.40.44:555][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.26-17.40.44:555][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.26-17.40.44:555][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.26-17.40.44:555][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.26-17.40.44:555][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.26-17.40.44:555][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.26-17.40.44:555][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.26-17.40.44:555][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.26-17.40.44:555][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.26-17.40.44:555][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.26-17.40.44:555][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.26-17.40.44:555][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.26-17.40.44:555][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.26-17.40.44:555][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/chris/Documents/Unreal Projects/GoingHome/Saved/Config/Windows/Scalability.ini]
+[2019.01.26-17.40.44:555][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.26-17.40.44:555][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.26-17.40.44:555][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.26-17.40.44:555][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.26-17.40.44:555][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.26-17.40.44:555][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.26-17.40.44:555][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.26-17.40.44:556][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.26-17.40.44:556][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.26-17.40.44:556][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.26-17.40.44:556][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.26-17.40.44:556][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.26-17.40.44:556][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.26-17.40.44:556][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.26-17.40.44:556][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.26-17.40.44:556][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.26-17.40.44:556][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.26-17.40.44:556][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.26-17.40.44:556][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.26-17.40.44:556][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.26-17.40.44:556][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.26-17.40.44:556][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.26-17.40.44:556][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.26-17.40.44:556][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.26-17.40.44:556][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.26-17.40.44:556][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.26-17.40.44:556][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.26-17.40.44:556][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.26-17.40.44:556][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.26-17.40.44:556][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.26-17.40.44:556][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/chris/Documents/Unreal Projects/GoingHome/Saved/Config/Windows/Scalability.ini]
+[2019.01.26-17.40.44:556][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.26-17.40.44:556][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.26-17.40.44:556][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.26-17.40.44:556][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.26-17.40.44:556][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.26-17.40.44:556][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.26-17.40.44:556][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.26-17.40.44:557][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.26-17.40.44:557][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/chris/Documents/Unreal Projects/GoingHome/Saved/Config/Windows/Scalability.ini]
+[2019.01.26-17.40.44:557][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.26-17.40.44:557][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.26-17.40.44:557][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.26-17.40.44:557][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.26-17.40.44:557][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.26-17.40.44:557][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.26-17.40.44:557][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.26-17.40.44:557][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.26-17.40.44:557][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.26-17.40.44:557][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.26-17.40.44:557][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.26-17.40.44:557][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.26-17.40.44:557][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.26-17.40.44:557][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/chris/Documents/Unreal Projects/GoingHome/Saved/Config/Windows/Scalability.ini]
+[2019.01.26-17.40.44:557][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.26-17.40.44:557][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.26-17.40.44:557][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.01.26-17.40.44:558][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.01.26-17.40.44:558][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/chris/Documents/Unreal Projects/GoingHome/Saved/Config/Windows/Engine.ini]
+[2019.01.26-17.40.44:558][  0]LogInit: Computer: CHRIS-OMEN15
+[2019.01.26-17.40.44:558][  0]LogInit: User: chris
+[2019.01.26-17.40.44:558][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.26-17.40.44:558][  0]LogInit: High frequency timer resolution =2.742189 MHz
+[2019.01.26-17.40.44:559][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.01.26-17.40.44:559][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.26-17.40.44:559][  0]LogMemory: Process Physical Memory: 102.62 MB used, 102.62 MB peak
+[2019.01.26-17.40.44:559][  0]LogMemory: Process Virtual Memory: 92.94 MB used, 92.94 MB peak
+[2019.01.26-17.40.44:559][  0]LogMemory: Physical Memory: 7121.67 MB used,  9147.55 MB free, 16269.22 MB total
+[2019.01.26-17.40.44:559][  0]LogMemory: Virtual Memory: 4644.60 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.01.26-17.40.44:604][  0]LogInit: Using OS detected language (en-US).
+[2019.01.26-17.40.44:604][  0]LogInit: Using OS detected locale (en-US).
+[2019.01.26-17.40.44:606][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.26-17.40.45:015][  0]LogStreaming: Display: Took  0.411s to InitEngineTextLocalization.
+[2019.01.26-17.40.45:015][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.26-17.40.45:059][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.26-17.40.45:059][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.26-17.40.45:487][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.26-17.40.45:487][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.26-17.40.45:574][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2019.01.26-17.40.45:574][  0]LogD3D11RHI:       4018/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.01.26-17.40.45:587][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.01.26-17.40.45:587][  0]LogD3D11RHI:       128/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.01.26-17.40.45:590][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.26-17.40.45:590][  0]LogD3D11RHI:       0/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.26-17.40.45:590][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.26-17.40.45:619][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.26-17.40.45:619][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2019.01.26-17.40.45:619][  0]LogWindows: EnumDisplayDevices:
+[2019.01.26-17.40.45:619][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.01.26-17.40.45:619][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.01.26-17.40.45:620][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.01.26-17.40.45:620][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.01.26-17.40.45:620][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2019.01.26-17.40.45:620][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2019.01.26-17.40.45:620][  0]LogD3D11RHI:   Driver Version: 398.36 (internal:24.21.13.9836, unified:398.36)
+[2019.01.26-17.40.45:620][  0]LogD3D11RHI:      Driver Date: 6-24-2018
+[2019.01.26-17.40.45:620][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2019.01.26-17.40.45:665][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.26-17.40.45:683][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.26-17.40.46:111][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.26-17.40.46:126][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.26-17.40.46:142][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.26-17.40.46:159][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.26-17.40.46:174][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.26-17.40.46:190][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.26-17.40.46:206][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.26-17.40.46:222][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.26-17.40.46:231][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.26-17.40.46:323][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-17.40.46:323][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-17.40.46:323][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-17.40.46:323][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-17.40.46:323][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-17.40.46:323][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-17.40.46:323][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-17.40.46:323][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-17.40.46:323][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-17.40.46:323][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-17.40.46:323][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-17.40.46:323][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-17.40.46:323][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-17.40.46:323][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-17.40.46:323][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-17.40.46:323][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-17.40.46:323][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-17.40.46:323][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.26-17.40.46:327][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.26-17.40.46:393][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.26-17.40.46:393][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.26-17.40.46:420][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.26-17.40.46:420][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.26-17.40.46:440][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.26-17.40.46:455][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.26-17.40.46:470][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.26-17.40.46:487][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.26-17.40.46:541][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.26-17.40.46:541][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.26-17.40.46:541][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.26-17.40.46:648][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/chris/Documents/Unreal Projects/GoingHome/Intermediate/Shaders/WorkingDirectory/11140/).
+[2019.01.26-17.40.46:648][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/chris/AppData/Local/Temp/UnrealShaderWorkingDir/6CA56C6740D3E33304A3EF97531A45F9/'.
+[2019.01.26-17.40.46:651][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.26-17.40.46:652][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.26-17.40.46:652][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.26-17.40.47:190][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.26-17.40.47:248][  0]LogDerivedDataCache: Loaded boot cache 0.06s 86MB C:/Users/chris/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.26-17.40.47:248][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/chris/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.01.26-17.40.47:248][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/chris/Documents/Unreal Projects/GoingHome/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.26-17.40.47:249][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.26-17.40.47:249][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/chris/Documents/Unreal Projects/GoingHome/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.26-17.40.47:249][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.26-17.40.47:263][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.26-17.40.47:263][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.26-17.40.47:263][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.01.26-17.40.47:276][  0]LogDerivedDataCache: Using Local data cache path C:/Users/chris/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.26-17.40.47:276][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.26-17.40.47:276][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.26-17.40.47:298][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.26-17.40.47:300][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.26-17.40.47:301][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.26-17.40.47:419][  0]LogAssetRegistry: FAssetRegistry took 0.0351 seconds to start up
+[2019.01.26-17.40.47:921][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.26-17.40.48:127][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.26-17.40.48:135][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.26-17.40.48:135][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.26-17.40.48:135][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.26-17.40.48:135][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.26-17.40.48:154][  0]LogNetVersion: GoingHome 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2996855435)
+[2019.01.26-17.40.48:845][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.114541 seconds
+[2019.01.26-17.40.48:852][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.01.26-17.40.48:852][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.01.26-17.40.48:852][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.26-17.40.50:126][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.26-17.40.50:141][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.26-17.40.51:154][  0]SourceControl: Source control is disabled
+[2019.01.26-17.40.51:154][  0]SourceControl: Source control is disabled
+[2019.01.26-17.40.51:157][  0]SourceControl: Source control is disabled
+[2019.01.26-17.40.51:160][  0]SourceControl: Source control is disabled
+[2019.01.26-17.40.51:414][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.26-17.40.51:480][  0]LogOcInput: OculusInput pre-init called
+[2019.01.26-17.40.51:638][  0]LogEngine: Initializing Engine...
+[2019.01.26-17.40.51:639][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.26-17.40.51:640][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.26-17.40.51:640][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.26-17.40.51:641][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.26-17.40.51:641][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.26-17.40.51:895][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.26-17.40.51:914][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.26-17.40.51:939][  0]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-17.40.51:961][  0]LogInit: FAudioDevice initialized.
+[2019.01.26-17.40.51:962][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.26-17.40.52:046][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/chris/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.26-17.40.52:053][  0]LogInit: Texture streaming: Enabled
+[2019.01.26-17.40.52:077][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.26-17.40.52:095][  0]LogInit: Transaction tracking system initialized
+[2019.01.26-17.40.52:131][  0]BlueprintLog: New page: Editor Load
+[2019.01.26-17.40.52:240][  0]LocalizationService: Localization service is disabled
+[2019.01.26-17.40.52:838][  0]LogFileCache: Scanning file cache for directory 'C:/Users/chris/Documents/Unreal Projects/GoingHome/Content/' took 0.02s
+[2019.01.26-17.40.52:838][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.26-17.40.52:838][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.26-17.40.52:838][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.26-17.40.52:838][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.26-17.40.52:838][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.26-17.40.52:839][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.26-17.40.52:839][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.26-17.40.53:077][  0]SourceControl: Source control is disabled
+[2019.01.26-17.40.53:078][  0]Cmd: MAP LOAD FILE="../../../../../../Users/chris/Documents/Unreal Projects/GoingHome/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.26-17.40.53:078][  0]LightingResults: New page: Lighting Build
+[2019.01.26-17.40.53:084][  0]MapCheck: New page: Map Check
+[2019.01.26-17.40.53:084][  0]LightingResults: New page: Lighting Build
+[2019.01.26-17.40.53:333][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.01.26-17.40.53:336][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.26-17.40.53:359][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.26-17.40.53:360][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.381ms to complete.
+[2019.01.26-17.40.53:360][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.282
+[2019.01.26-17.40.53:472][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-17.40.53:479][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-17.40.53:486][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-17.40.53:494][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-17.40.53:504][  0]LogCollectionManager: Loaded 0 collections in 0.002313 seconds
+[2019.01.26-17.40.53:559][  0]LogFileCache: Scanning file cache for directory 'C:/Users/chris/Documents/Unreal Projects/GoingHome/Saved/Collections/' took 0.01s
+[2019.01.26-17.40.53:559][  0]LogFileCache: Scanning file cache for directory 'C:/Users/chris/Documents/Unreal Projects/GoingHome/Content/Developers/chris/Collections/' took 0.01s
+[2019.01.26-17.40.53:559][  0]LogFileCache: Scanning file cache for directory 'C:/Users/chris/Documents/Unreal Projects/GoingHome/Content/Collections/' took 0.01s
+[2019.01.26-17.40.53:559][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.01.26-17.40.53:573][  0]LogContentBrowser: Native class hierarchy populated in 0.0133 seconds. Added 2651 classes and 620 folders.
+[2019.01.26-17.40.53:581][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.01.26-17.40.53:586][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-17.40.53:588][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-17.40.53:591][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-17.40.53:593][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-17.40.53:595][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-17.40.53:597][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-17.40.53:599][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-17.40.53:601][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-17.40.53:603][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-17.40.53:605][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-17.40.53:608][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-17.40.53:610][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-17.40.53:611][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-17.40.53:613][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-17.40.53:615][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-17.40.53:617][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-17.40.53:620][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-17.40.53:622][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-17.40.53:624][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-17.40.53:626][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-17.40.53:628][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-17.40.53:630][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-17.40.53:632][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-17.40.53:635][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-17.40.53:637][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-17.40.53:639][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.26-17.40.53:740][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.26-17.40.53:747][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.01.26-17.40.53:761][  0]LogSlate: Took 0.000413 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.26-17.40.53:764][  0]LogSlate: Took 0.000365 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.26-17.40.53:772][  0]LogSlate: Took 0.001424 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.26-17.40.53:884][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2019.01.26-17.40.54:030][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.01.26-17.40.54:030][  0]LogLoad: (Engine Initialization) Total time: 12.65 seconds
+[2019.01.26-17.40.54:030][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.26-17.40.54:050][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.26-17.40.54:102][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.26-17.40.54:128][  0]LogSlate: Took 0.000682 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.26-17.40.54:150][  1]LogAssetRegistry: Asset discovery search completed in 6.7534 seconds
+[2019.01.26-17.40.54:151][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.26-17.40.54:151][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000046 seconds (updated 0 objects)
+[2019.01.26-18.33.34:864][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-18.34.05:368][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-18.34.07:418][740]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-18.34.07:427][740]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-18.34.07:428][740]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-18.34.07:428][740]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 26, 2019, 8:34:07 AM)
+[2019.01.26-18.34.07:440][740]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.01.26-18.34.07:444][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003145s)
+[2019.01.26-18.34.07:444][740]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.01.26-18.34.07:445][740]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2019.01.26-18.34.07:445][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004690s)
+[2019.01.26-18.34.07:470][740]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-18.34.07:492][740]LogInit: FAudioDevice initialized.
+[2019.01.26-18.34.07:534][740]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.01.26-18.34.07:536][740]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2019.01.26-13.34.07
+[2019.01.26-18.34.07:537][740]LogWorld: Bringing up level for play took: 0.001066
+[2019.01.26-18.34.07:556][740]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.01.26-18.34.07:557][740]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.255
+[2019.01.26-18.34.07:557][740]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-18.34.37:208][519]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-18.34.37:208][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-18.34.37:242][519]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-18.34.37:242][519]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-18.34.37:266][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-18.34.37:315][522]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.01.26-18.34.41:365][765]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ground)
+[2019.01.26-18.34.46:869][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-18.35.08:662][400]LogSlate: Took 0.000310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.26-18.35.17:803][940]LogSavePackage: Moving '../../../../../../Users/chris/Documents/Unreal Projects/GoingHome/Saved/2DSideScrollerExampleMap_Auto1E54CABAD40C3FA914647D8A29528C7D9.tmp' to '../../../../../../Users/chris/Documents/Unreal Projects/GoingHome/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto1.umap'
+[2019.01.26-18.35.17:808][940]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.125
+[2019.01.26-18.35.17:808][940]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.125
+[2019.01.26-18.37.17:855][142]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2019.01.26-18.37.20:008][269]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ground)
+[2019.01.26-18.37.21:671][366]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-18.37.31:656][965]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2019.01.26-18.37.33:641][ 82]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ground)
+[2019.01.26-18.37.35:676][202]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2019.01.26-18.37.37:326][299]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ground)
+[2019.01.26-18.37.48:077][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-18.37.48:277][954]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-18.37.48:287][954]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-18.37.48:287][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-18.37.48:288][954]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 26, 2019, 8:37:48 AM)
+[2019.01.26-18.37.48:288][954]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.01.26-18.37.48:291][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003187s)
+[2019.01.26-18.37.48:291][954]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.01.26-18.37.48:292][954]LogPlayLevel: PIE: World Init took: (0.000663s)
+[2019.01.26-18.37.48:292][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003958s)
+[2019.01.26-18.37.48:317][954]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-18.37.48:334][954]LogInit: FAudioDevice initialized.
+[2019.01.26-18.37.48:370][954]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.01.26-18.37.48:371][954]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2019.01.26-13.37.48
+[2019.01.26-18.37.48:371][954]LogWorld: Bringing up level for play took: 0.000928
+[2019.01.26-18.37.48:384][954]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.571
+[2019.01.26-18.37.48:384][954]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-18.38.17:231][685]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-18.38.17:232][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-18.38.17:267][685]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-18.38.17:267][685]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-18.38.17:292][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-18.38.17:340][688]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.01.26-18.38.20:791][895]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ground)
+[2019.01.26-18.38.55:401][969]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_13)
+[2019.01.26-18.38.58:353][144]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ground)
+[2019.01.26-18.45.46:938][654]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-18.45.47:074][654]LogSavePackage: Moving '../../../../../../Users/chris/Documents/Unreal Projects/GoingHome/Saved/2DSideScrollerExampleMap_Auto2D20FBB7B4D6EDE9166BED19F68DCFADB.tmp' to '../../../../../../Users/chris/Documents/Unreal Projects/GoingHome/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto2.umap'
+[2019.01.26-18.45.47:078][654]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.127
+[2019.01.26-18.45.47:078][654]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.127
+[2019.01.26-19.03.57:562][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.04.00:132][202]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/Ground.Ground
+[2019.01.26-19.04.00:209][202]LogSlate: Took 0.000666 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.26-19.04.00:295][202]LogRenderer: Reallocating scene render targets to support 1524x880 Format 10 NumSamples 1 (Frame:1).
+[2019.01.26-19.04.11:292][859]LogSlate: Took 0.000816 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.26-19.05.13:949][425]LogSlate: Window 'Save Asset As' being destroyed
+[2019.01.26-19.05.18:626][609]LogSlate: Window 'Save Asset As' being destroyed
+[2019.01.26-19.06.04:086][332]LogSlate: Window 'Ground' being destroyed
+[2019.01.26-19.06.04:090][332]LogSlate: Window 'Ground' being destroyed
+[2019.01.26-19.06.54:589][349]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2019.01.26-19.07.09:040][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.07.09:173][222]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-19.07.09:183][222]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-19.07.09:183][222]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-19.07.09:183][222]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 26, 2019, 9:07:09 AM)
+[2019.01.26-19.07.09:184][222]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.01.26-19.07.09:187][222]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003555s)
+[2019.01.26-19.07.09:188][222]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.01.26-19.07.09:188][222]LogPlayLevel: PIE: World Init took: (0.000637s)
+[2019.01.26-19.07.09:188][222]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004409s)
+[2019.01.26-19.07.09:215][222]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-19.07.09:238][222]LogInit: FAudioDevice initialized.
+[2019.01.26-19.07.09:273][222]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.01.26-19.07.09:275][222]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2019.01.26-14.07.09
+[2019.01.26-19.07.09:275][222]LogWorld: Bringing up level for play took: 0.001346
+[2019.01.26-19.07.09:288][222]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.524
+[2019.01.26-19.07.09:288][222]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-19.07.24:217][117]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-19.07.24:217][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.07.24:251][117]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-19.07.24:252][117]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-19.07.24:275][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.07.24:324][120]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.01.26-19.10.22:740][182]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.10.25:495][340]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ground)
+[2019.01.26-19.10.31:952][706]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.11.03:120][158]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2019.01.26-19.11.05:154][278]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ground)
+[2019.01.26-19.11.06:316][346]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2019.01.26-19.11.11:996][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.11.22:704][326]LogSlate: Window 'Select Path' being destroyed
+[2019.01.26-19.11.55:577][296]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ground)
+[2019.01.26-19.12.11:606][254]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.12.47:695][418]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.12.47:845][427]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-19.12.47:855][427]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-19.12.47:855][427]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-19.12.47:855][427]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 26, 2019, 9:12:47 AM)
+[2019.01.26-19.12.47:855][427]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.01.26-19.12.47:859][427]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003387s)
+[2019.01.26-19.12.47:860][427]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.01.26-19.12.47:860][427]LogPlayLevel: PIE: World Init took: (0.001159s)
+[2019.01.26-19.12.47:860][427]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004753s)
+[2019.01.26-19.12.47:886][427]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-19.12.47:904][427]LogInit: FAudioDevice initialized.
+[2019.01.26-19.12.47:934][427]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.01.26-19.12.47:935][427]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2019.01.26-14.12.47
+[2019.01.26-19.12.47:936][427]LogWorld: Bringing up level for play took: 0.001172
+[2019.01.26-19.12.47:949][427]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.136
+[2019.01.26-19.12.47:949][427]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-19.13.14:945][ 47]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-19.13.14:946][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.13.14:984][ 47]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-19.13.14:984][ 47]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-19.13.15:046][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.13.15:070][ 48]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.01.26-19.13.47:057][967]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ground)
+[2019.01.26-19.14.09:532][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.14.54:442][998]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/2DSideScroller/Textures/2DBackgroundBlockAtlas.2DBackgroundBlockAtlas
+[2019.01.26-19.14.54:471][998]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.01.26-19.15.01:972][440]LogSlate: Window '2DBackgroundBlockAtlas' being destroyed
+[2019.01.26-19.15.01:976][440]LogSlate: Window '2DBackgroundBlockAtlas' being destroyed
+[2019.01.26-19.15.14:299][177]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2019.01.26-19.15.16:671][317]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ground)
+[2019.01.26-19.15.22:675][675]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.15.22:826][684]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-19.15.22:839][684]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-19.15.22:840][684]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-19.15.22:840][684]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 26, 2019, 9:15:22 AM)
+[2019.01.26-19.15.22:840][684]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.01.26-19.15.22:843][684]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002969s)
+[2019.01.26-19.15.22:843][684]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.01.26-19.15.22:843][684]LogPlayLevel: PIE: World Init took: (0.000574s)
+[2019.01.26-19.15.22:843][684]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003691s)
+[2019.01.26-19.15.22:868][684]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-19.15.22:886][684]LogInit: FAudioDevice initialized.
+[2019.01.26-19.15.22:932][684]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.01.26-19.15.22:936][684]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2019.01.26-14.15.22
+[2019.01.26-19.15.22:937][684]LogWorld: Bringing up level for play took: 0.002656
+[2019.01.26-19.15.22:953][684]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.86
+[2019.01.26-19.15.22:953][684]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-19.15.30:228][120]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-19.15.30:228][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.15.30:261][120]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-19.15.30:261][120]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-19.15.30:284][120]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.15.30:334][123]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.01.26-19.15.35:934][459]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ground)
+[2019.01.26-19.15.41:877][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.15.58:654][818]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/Ground.Ground
+[2019.01.26-19.16.05:661][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.16.05:744][232]LogSlate: Window 'Ground' being destroyed
+[2019.01.26-19.16.08:515][394]LogActorFactory: Actor Factory created Cube
+[2019.01.26-19.16.09:396][446]LogActorFactory: Actor Factory created Cube
+[2019.01.26-19.16.20:638][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.16.47:094][686]LogAssetEditorManager: Opening Asset editor for Material /Game/2DSideScroller/Sprites/NewMaterial.NewMaterial
+[2019.01.26-19.16.47:104][686]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.01.26-19.16.47:557][686]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.01.26-19.16.47:593][686]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.26-19.16.47:593][686]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.26-19.16.47:593][686]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.26-19.16.47:593][686]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.26-19.16.48:571][729]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.26-19.16.48:621][732]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.26-19.16.48:638][733]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.26-19.16.48:638][733]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.26-19.16.48:775][736]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.26-19.16.48:775][736]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.26-19.16.49:117][737]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.26-19.16.49:117][737]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.26-19.16.49:117][737]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.26-19.16.49:118][737]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.26-19.16.49:149][739]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.26-19.16.49:232][744]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.26-19.16.49:383][753]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.26-19.16.49:466][758]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.26-19.16.49:574][764]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.26-19.16.49:839][779]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.26-19.16.49:875][781]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.26-19.16.50:539][819]MaterialEditorStats: Base pass shader: 103 instructions
+[2019.01.26-19.16.50:539][819]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2019.01.26-19.16.50:539][819]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.26-19.16.50:539][819]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.26-19.16.54:609][ 62]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.01.26-19.16.54:622][ 62]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.01.26-19.16.54:662][ 63]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.26-19.16.54:662][ 63]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.26-19.16.54:662][ 63]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.26-19.16.54:662][ 63]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.26-19.16.54:884][ 76]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.26-19.16.54:917][ 78]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.26-19.16.54:932][ 79]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.26-19.16.54:932][ 79]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.26-19.16.55:084][ 88]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.26-19.16.55:100][ 89]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.26-19.16.55:135][ 91]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.26-19.16.55:151][ 92]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.26-19.16.55:289][100]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.26-19.16.55:616][119]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.26-19.16.55:953][139]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.26-19.16.56:002][142]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.26-19.16.56:017][143]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.26-19.16.56:222][155]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.26-19.16.56:239][156]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.26-19.16.56:523][173]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.26-19.16.56:556][175]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.26-19.16.56:924][197]MaterialEditorStats: Base pass shader: 103 instructions
+[2019.01.26-19.16.56:924][197]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2019.01.26-19.16.56:924][197]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.01.26-19.16.56:924][197]MaterialEditorStats: Texture samplers: 3/16
+[2019.01.26-19.17.11:164][ 35]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.01.26-19.17.11:165][ 35]LogMaterial: Warning: /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.01.26-19.17.11:165][ 35]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.01.26-19.17.11:170][ 35]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.01.26-19.17.11:197][ 35]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2019.01.26-19.17.25:866][888]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.01.26-19.17.25:867][888]LogMaterial: Warning: /Engine/Transient.NewMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.01.26-19.17.25:867][888]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.01.26-19.17.25:869][888]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.01.26-19.17.25:883][888]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.26-19.17.25:883][888]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.26-19.17.25:909][888]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.01.26-19.17.25:912][888]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.01.26-19.17.25:918][888]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.26-19.17.25:918][888]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.26-19.17.32:736][293]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.01.26-19.17.32:752][293]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.26-19.17.32:752][293]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.26-19.17.32:752][293]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.26-19.17.32:752][293]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.26-19.17.32:756][293]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.01.26-19.17.33:008][304]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.26-19.17.33:040][306]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.26-19.17.33:058][307]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.26-19.17.33:058][307]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.26-19.17.33:344][322]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.26-19.17.33:344][322]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.26-19.17.33:383][325]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.26-19.17.33:432][328]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.26-19.17.33:756][347]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.26-19.17.33:843][352]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.26-19.17.33:993][361]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.26-19.17.34:111][368]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.26-19.17.34:259][377]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.26-19.17.34:294][379]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.26-19.17.34:393][385]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.26-19.17.34:613][398]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.26-19.17.34:663][401]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.26-19.17.34:850][412]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.26-19.17.34:865][413]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.26-19.17.35:104][427]MaterialEditorStats: Base pass shader: 106 instructions
+[2019.01.26-19.17.35:104][427]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2019.01.26-19.17.35:104][427]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.01.26-19.17.35:104][427]MaterialEditorStats: Texture samplers: 4/16
+[2019.01.26-19.17.35:104][427]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.01.26-19.17.35:104][427]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.01.26-19.17.37:576][573]LogMaterialEditor: Applying material NewMaterial
+[2019.01.26-19.17.37:959][573]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.01.26-19.17.38:008][573]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.26-19.17.38:008][573]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.26-19.17.38:008][573]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.26-19.17.38:008][573]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.26-19.17.38:037][573]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.01.26-19.17.38:066][573]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.01.26-19.17.38:116][573]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy NewMaterial, compiling. 
+[2019.01.26-19.17.39:595][573]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.01.26-19.17.39:595][573]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.01.26-19.17.39:595][573]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.01.26-19.17.39:595][573]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.01.26-19.17.39:595][573]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.01.26-19.17.39:595][573]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.01.26-19.17.39:595][573]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.01.26-19.17.39:595][573]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.01.26-19.17.39:595][573]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.01.26-19.17.39:595][573]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.01.26-19.17.39:595][573]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.26-19.17.39:595][573]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.01.26-19.17.39:595][573]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.26-19.17.39:595][573]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.01.26-19.17.39:595][573]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.01.26-19.17.39:595][573]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.01.26-19.17.39:595][573]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.01.26-19.17.39:595][573]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.26-19.17.39:596][573]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.26-19.17.39:596][573]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.26-19.17.39:596][573]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.26-19.17.39:598][573]TextureStreamingBuild: Display: Compiling optional shaders took 1.490 seconds.
+[2019.01.26-19.17.41:151][664]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2019.01.26-19.17.42:290][664]LogSavePackage: Moving '../../../../../../Users/chris/Documents/Unreal Projects/GoingHome/Saved/NewMaterial321AEA9D4A8B6FA48923A28AE4818A14.tmp' to '../../../../../../Users/chris/Documents/Unreal Projects/GoingHome/Content/2DSideScroller/Sprites/NewMaterial.uasset'
+[2019.01.26-19.17.42:307][664]MaterialEditorStats: Base pass shader: 106 instructions
+[2019.01.26-19.17.42:307][664]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2019.01.26-19.17.42:307][664]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.01.26-19.17.42:307][664]MaterialEditorStats: Texture samplers: 4/16
+[2019.01.26-19.17.42:307][664]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.01.26-19.17.42:307][664]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.01.26-19.18.06:315][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.18.10:294][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.18.23:624][106]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.01.26-19.18.23:638][106]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.26-19.18.23:638][106]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.26-19.18.23:638][106]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.26-19.18.23:638][106]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.26-19.18.24:308][144]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.26-19.18.24:308][144]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.26-19.18.24:344][147]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.26-19.18.24:344][147]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.26-19.18.24:529][158]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.26-19.18.24:529][158]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.26-19.18.24:563][159]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.26-19.18.24:582][161]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.26-19.18.24:743][170]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.26-19.18.24:913][180]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.26-19.18.25:080][190]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.26-19.18.25:113][192]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.26-19.18.25:271][200]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.26-19.18.25:385][207]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.26-19.18.25:456][211]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.26-19.18.25:656][223]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.26-19.18.25:694][225]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.26-19.18.25:852][234]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.01.26-19.18.25:870][234]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.26-19.18.25:931][236]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.26-19.18.25:984][240]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.26-19.18.26:119][248]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.26-19.18.26:185][252]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.26-19.18.26:216][254]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.26-19.18.26:267][257]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.26-19.18.26:371][263]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.26-19.18.26:400][265]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.26-19.18.26:436][267]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.26-19.18.26:503][271]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.26-19.18.26:534][273]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.26-19.18.26:618][278]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.26-19.18.26:856][292]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.26-19.18.27:006][301]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.26-19.18.27:107][307]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.26-19.18.27:210][313]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.26-19.18.27:406][324]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.01.26-19.18.27:436][324]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.01.26-19.18.27:460][324]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.01.26-19.18.27:479][324]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.26-19.18.27:658][332]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.26-19.18.27:874][345]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.26-19.18.27:907][347]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.26-19.18.27:976][351]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.26-19.18.27:993][352]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.26-19.18.28:147][361]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.26-19.18.28:180][363]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.26-19.18.28:210][365]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.26-19.18.28:228][366]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.26-19.18.28:346][373]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.26-19.18.28:361][374]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.26-19.18.28:412][377]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.26-19.18.28:660][391]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.26-19.18.28:747][395]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.26-19.18.28:919][406]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.26-19.18.28:953][407]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.26-19.18.29:057][413]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.26-19.18.29:211][422]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.26-19.18.29:386][433]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.26-19.18.29:506][440]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.26-19.18.29:846][460]MaterialEditorStats: Base pass shader: 106 instructions
+[2019.01.26-19.18.29:846][460]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2019.01.26-19.18.29:846][460]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.01.26-19.18.29:846][460]MaterialEditorStats: Texture samplers: 4/16
+[2019.01.26-19.18.29:846][460]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.01.26-19.18.29:846][460]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.01.26-19.18.30:000][468]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.01.26-19.18.30:037][468]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.01.26-19.18.30:037][468]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.01.26-19.18.30:037][468]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.01.26-19.18.30:037][468]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.01.26-19.18.30:040][468]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.01.26-19.18.30:240][478]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.01.26-19.18.30:256][479]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.01.26-19.18.30:305][482]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.01.26-19.18.30:338][484]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.01.26-19.18.30:449][490]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.01.26-19.18.30:498][493]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.01.26-19.18.30:529][495]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.01.26-19.18.30:634][501]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.01.26-19.18.30:668][503]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.01.26-19.18.30:700][505]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.01.26-19.18.30:768][509]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.01.26-19.18.30:869][515]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.01.26-19.18.30:889][516]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.26-19.18.30:939][519]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.01.26-19.18.30:988][522]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.26-19.18.31:108][529]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.01.26-19.18.31:108][529]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.01.26-19.18.31:174][533]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.01.26-19.18.31:310][541]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.01.26-19.18.31:340][543]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.26-19.18.31:407][547]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.26-19.18.31:547][555]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.26-19.18.31:547][555]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.26-19.18.31:597][558]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.26-19.18.31:646][561]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.26-19.18.31:734][566]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.26-19.18.31:766][568]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.26-19.18.31:783][569]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.26-19.18.31:848][573]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.26-19.18.32:090][587]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.26-19.18.32:272][598]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.26-19.18.32:323][601]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.26-19.18.32:372][604]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.26-19.18.32:566][615]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.26-19.18.32:701][623]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.26-19.18.32:978][639]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.26-19.18.33:144][649]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.26-19.18.33:346][661]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.26-19.18.33:394][664]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.26-19.18.33:511][671]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.26-19.18.33:544][673]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.26-19.18.33:744][685]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.26-19.18.33:970][698]MaterialEditorStats: Base pass shader: 109 instructions
+[2019.01.26-19.18.33:970][698]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2019.01.26-19.18.33:970][698]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.01.26-19.18.33:970][698]MaterialEditorStats: Texture samplers: 4/16
+[2019.01.26-19.18.33:970][698]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.01.26-19.18.33:970][698]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.01.26-19.18.38:241][954]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.01.26-19.18.38:264][954]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.01.26-19.18.38:264][954]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.01.26-19.18.38:264][954]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.01.26-19.18.38:264][954]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.01.26-19.18.38:268][954]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.01.26-19.18.38:631][973]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.01.26-19.18.38:652][974]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.01.26-19.18.38:758][980]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.01.26-19.18.38:827][984]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.01.26-19.18.38:894][988]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.01.26-19.18.38:961][992]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.01.26-19.18.38:976][993]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.01.26-19.18.39:112][  1]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.01.26-19.18.39:127][  2]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.01.26-19.18.39:193][  6]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.01.26-19.18.39:209][  7]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.01.26-19.18.39:347][ 15]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.01.26-19.18.39:347][ 15]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.26-19.18.39:426][ 20]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.01.26-19.18.39:442][ 21]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.26-19.18.39:564][ 28]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.01.26-19.18.39:564][ 28]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.01.26-19.18.39:645][ 33]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.01.26-19.18.39:779][ 41]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.01.26-19.18.39:796][ 42]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.26-19.18.39:894][ 48]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.26-19.18.40:029][ 56]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.26-19.18.40:029][ 56]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.26-19.18.40:047][ 57]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.26-19.18.40:112][ 61]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.26-19.18.40:227][ 68]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.26-19.18.40:228][ 68]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.26-19.18.40:246][ 69]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.26-19.18.40:313][ 73]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.26-19.18.40:548][ 87]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.26-19.18.40:748][ 99]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.26-19.18.40:782][101]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.26-19.18.40:848][105]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.26-19.18.41:065][118]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.26-19.18.41:099][120]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.26-19.18.41:352][135]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.26-19.18.41:367][136]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.26-19.18.41:451][141]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.26-19.18.41:568][148]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.26-19.18.41:667][154]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.26-19.18.41:837][164]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.26-19.18.41:885][167]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.26-19.18.42:128][181]MaterialEditorStats: Base pass shader: 109 instructions
+[2019.01.26-19.18.42:128][181]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2019.01.26-19.18.42:128][181]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.01.26-19.18.42:128][181]MaterialEditorStats: Texture samplers: 4/16
+[2019.01.26-19.18.42:128][181]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.01.26-19.18.42:128][181]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.01.26-19.18.48:613][566]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.18.49:687][630]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.01.26-19.18.49:711][630]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.01.26-19.18.49:711][630]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.01.26-19.18.49:711][630]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.01.26-19.18.49:711][630]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.01.26-19.18.49:711][630]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.01.26-19.18.49:925][641]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.01.26-19.18.49:925][641]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.01.26-19.18.49:976][644]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.01.26-19.18.49:993][645]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.01.26-19.18.50:115][652]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.01.26-19.18.50:182][656]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.01.26-19.18.50:232][659]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.01.26-19.18.50:279][662]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.01.26-19.18.50:330][665]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.01.26-19.18.50:396][669]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.01.26-19.18.50:466][673]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.01.26-19.18.50:498][675]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.01.26-19.18.50:564][679]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.01.26-19.18.50:648][684]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.01.26-19.18.50:697][687]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.01.26-19.18.50:713][688]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.01.26-19.18.50:796][693]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.01.26-19.18.50:849][696]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.01.26-19.18.50:899][699]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.01.26-19.18.51:017][706]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.01.26-19.18.51:098][711]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.01.26-19.18.51:133][713]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.01.26-19.18.51:233][719]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.01.26-19.18.51:300][723]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.26-19.18.51:331][725]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.01.26-19.18.51:331][725]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.01.26-19.18.51:450][732]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.01.26-19.18.51:468][733]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.26-19.18.51:532][737]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.01.26-19.18.51:773][751]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.01.26-19.18.51:824][754]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.01.26-19.18.52:000][764]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.01.26-19.18.52:049][767]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.01.26-19.18.52:130][772]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.26-19.18.52:302][782]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.01.26-19.18.52:450][791]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.01.26-19.18.52:553][797]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.01.26-19.18.52:636][802]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.26-19.18.52:754][809]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.01.26-19.18.52:872][816]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.01.26-19.18.52:955][821]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.01.26-19.18.53:089][829]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.26-19.18.53:320][842]MaterialEditorStats: Base pass shader: 109 instructions
+[2019.01.26-19.18.53:320][842]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2019.01.26-19.18.53:320][842]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.01.26-19.18.53:320][842]MaterialEditorStats: Texture samplers: 4/16
+[2019.01.26-19.18.53:320][842]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.01.26-19.18.53:320][842]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.01.26-19.18.56:095][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.18.56:178][ 13]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2019.01.26-19.18.56:568][ 13]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.01.26-19.18.56:636][ 13]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.01.26-19.18.56:636][ 13]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.01.26-19.18.56:636][ 13]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.01.26-19.18.56:636][ 13]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.01.26-19.18.56:663][ 13]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.01.26-19.18.56:699][ 13]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2019.01.26-19.18.56:761][ 13]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy NewMaterial, compiling. 
+[2019.01.26-19.18.59:157][ 13]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.01.26-19.18.59:157][ 13]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.01.26-19.18.59:157][ 13]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.01.26-19.18.59:157][ 13]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.01.26-19.18.59:157][ 13]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.01.26-19.18.59:157][ 13]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.01.26-19.18.59:157][ 13]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.01.26-19.18.59:157][ 13]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.01.26-19.18.59:157][ 13]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.01.26-19.18.59:157][ 13]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.01.26-19.18.59:157][ 13]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.01.26-19.18.59:157][ 13]LogShaderCompilers: Display: Shaders left to compile 75
+[2019.01.26-19.18.59:157][ 13]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.01.26-19.18.59:157][ 13]LogShaderCompilers: Display: Shaders left to compile 73
+[2019.01.26-19.18.59:157][ 13]LogShaderCompilers: Display: Shaders left to compile 72
+[2019.01.26-19.18.59:157][ 13]LogShaderCompilers: Display: Shaders left to compile 71
+[2019.01.26-19.18.59:157][ 13]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.01.26-19.18.59:157][ 13]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.01.26-19.18.59:157][ 13]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.01.26-19.18.59:157][ 13]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.01.26-19.18.59:157][ 13]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.01.26-19.18.59:157][ 13]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.01.26-19.18.59:157][ 13]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.01.26-19.18.59:157][ 13]LogShaderCompilers: Display: Shaders left to compile 63
+[2019.01.26-19.18.59:157][ 13]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.01.26-19.18.59:157][ 13]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.01.26-19.18.59:157][ 13]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.01.26-19.18.59:158][ 13]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.01.26-19.18.59:158][ 13]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.01.26-19.18.59:158][ 13]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.01.26-19.18.59:158][ 13]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.01.26-19.18.59:158][ 13]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.01.26-19.18.59:158][ 13]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.01.26-19.18.59:158][ 13]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.01.26-19.18.59:158][ 13]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.01.26-19.18.59:158][ 13]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.01.26-19.18.59:158][ 13]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.01.26-19.18.59:158][ 13]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.01.26-19.18.59:158][ 13]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.01.26-19.18.59:158][ 13]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.01.26-19.18.59:158][ 13]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.01.26-19.18.59:158][ 13]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.01.26-19.18.59:158][ 13]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.01.26-19.18.59:158][ 13]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.01.26-19.18.59:160][ 13]TextureStreamingBuild: Display: Compiling optional shaders took 2.409 seconds.
+[2019.01.26-19.18.59:203][ 13]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.01.26-19.19.02:000][ 13]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.01.26-19.19.02:059][ 13]LogSavePackage: Moving '../../../../../../Users/chris/Documents/Unreal Projects/GoingHome/Saved/NewMaterial56BC4B6B4D0A21757C5D2D8BE9AB8362.tmp' to '../../../../../../Users/chris/Documents/Unreal Projects/GoingHome/Content/2DSideScroller/Sprites/NewMaterial.uasset'
+[2019.01.26-19.19.07:120][315]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ground)
+[2019.01.26-19.19.10:879][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.01.26-19.19.17:698][941]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.19.33:898][910]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/2DSideScroller/Textures/2DBackgroundBlockAtlas.2DBackgroundBlockAtlas
+[2019.01.26-19.19.38:656][187]LogSlate: Window '2DBackgroundBlockAtlas' being destroyed
+[2019.01.26-19.19.38:662][187]LogSlate: Window '2DBackgroundBlockAtlas' being destroyed
+[2019.01.26-19.19.40:516][290]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/2DSideScroller/Textures/2DBackgroundBlockAtlas_Sprite_0.2DBackgroundBlockAtlas_Sprite_0
+[2019.01.26-19.20.43:624][ 41]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ground)
+[2019.01.26-19.20.44:851][112]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.20.46:247][185]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.20.55:464][737]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.20.57:191][840]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.21.03:875][240]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.21.07:693][468]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.21.19:406][170]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.21.40:449][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.21.40:614][440]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-19.21.40:623][440]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-19.21.40:623][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-19.21.40:624][440]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 26, 2019, 9:21:40 AM)
+[2019.01.26-19.21.40:624][440]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.01.26-19.21.40:627][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002897s)
+[2019.01.26-19.21.40:627][440]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.01.26-19.21.40:627][440]LogPlayLevel: PIE: World Init took: (0.000518s)
+[2019.01.26-19.21.40:627][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003529s)
+[2019.01.26-19.21.40:653][440]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-19.21.40:671][440]LogInit: FAudioDevice initialized.
+[2019.01.26-19.21.40:704][440]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.01.26-19.21.40:706][440]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2019.01.26-14.21.40
+[2019.01.26-19.21.40:706][440]LogWorld: Bringing up level for play took: 0.000896
+[2019.01.26-19.21.40:719][440]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.906
+[2019.01.26-19.21.40:719][440]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-19.21.49:268][953]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-19.21.49:268][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.21.49:301][953]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-19.21.49:301][953]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-19.21.49:323][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.21.49:383][957]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.01.26-19.21.54:452][261]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.21.54:585][269]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_13)
+[2019.01.26-19.22.01:828][701]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.22.09:399][151]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.22.10:098][193]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_13)
+[2019.01.26-19.22.11:384][266]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_13)
+[2019.01.26-19.22.11:498][272]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2019.01.26-19.22.13:310][379]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.22.13:430][386]LogEditorViewport: Clicking Background
+[2019.01.26-19.22.15:249][495]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.22.15:384][503]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_13)
+[2019.01.26-19.22.17:321][617]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.22.18:924][710]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.22.19:011][715]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_13)
+[2019.01.26-19.22.20:010][769]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.22.43:871][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.22.47:665][417]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Ledge_13)
+[2019.01.26-19.22.47:687][417]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.23.21:110][420]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ground)
+[2019.01.26-19.23.22:832][521]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ground)
+[2019.01.26-19.23.26:890][764]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.01.26-19.23.28:030][830]Cmd: DELETE
+[2019.01.26-19.23.28:030][830]Cmd: ACTOR DELETE
+[2019.01.26-19.23.28:032][830]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.26-19.23.28:053][830]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2019.01.26-19.23.29:010][888]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ground)
+[2019.01.26-19.23.33:790][172]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2019.01.26-19.23.36:963][360]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2019.01.26-19.23.37:070][366]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2019.01.26-19.23.44:015][781]LogEditorViewport: Clicking on Component (LMB): PaperSpriteComponent (RenderComponent)
+[2019.01.26-19.23.44:126][787]LogEditorViewport: Clicking on Actor (double click): PaperSpriteActor (Ledge_14)
+[2019.01.26-19.23.46:823][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.24.09:852][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.24.17:882][809]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_13)
+[2019.01.26-19.24.19:351][895]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2019.01.26-19.24.20:382][955]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_13)
+[2019.01.26-19.24.21:560][ 24]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ground)
+[2019.01.26-19.24.23:534][140]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.24.29:000][468]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-19.24.29:010][468]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-19.24.29:010][468]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-19.24.29:010][468]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 26, 2019, 9:24:29 AM)
+[2019.01.26-19.24.29:010][468]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.01.26-19.24.29:013][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002834s)
+[2019.01.26-19.24.29:014][468]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.01.26-19.24.29:014][468]LogPlayLevel: PIE: World Init took: (0.000570s)
+[2019.01.26-19.24.29:014][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003529s)
+[2019.01.26-19.24.29:039][468]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-19.24.29:057][468]LogInit: FAudioDevice initialized.
+[2019.01.26-19.24.29:089][468]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.01.26-19.24.29:091][468]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2019.01.26-14.24.29
+[2019.01.26-19.24.29:091][468]LogWorld: Bringing up level for play took: 0.000901
+[2019.01.26-19.24.29:104][468]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0.709
+[2019.01.26-19.24.29:104][468]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-19.24.59:498][291]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-19.24.59:498][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.24.59:532][291]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-19.24.59:533][291]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-19.24.59:558][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.24.59:607][294]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.01.26-19.25.26:718][920]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.25.26:851][920]LogSavePackage: Moving '../../../../../../Users/chris/Documents/Unreal Projects/GoingHome/Saved/2DSideScrollerExampleMap_Auto361239044497E383CFA0AAF83FCD89793.tmp' to '../../../../../../Users/chris/Documents/Unreal Projects/GoingHome/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto3.umap'
+[2019.01.26-19.25.26:857][920]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.125
+[2019.01.26-19.25.26:857][920]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.125
+[2019.01.26-19.25.57:596][764]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.26.55:819][255]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ground)
+[2019.01.26-19.27.30:607][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.27.30:740][343]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-19.27.30:751][343]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-19.27.30:751][343]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-19.27.30:751][343]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 26, 2019, 9:27:30 AM)
+[2019.01.26-19.27.30:751][343]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.01.26-19.27.30:754][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002877s)
+[2019.01.26-19.27.30:754][343]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.01.26-19.27.30:755][343]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2019.01.26-19.27.30:755][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003793s)
+[2019.01.26-19.27.30:781][343]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-19.27.30:799][343]LogInit: FAudioDevice initialized.
+[2019.01.26-19.27.30:831][343]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.01.26-19.27.30:833][343]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2019.01.26-14.27.30
+[2019.01.26-19.27.30:833][343]LogWorld: Bringing up level for play took: 0.000971
+[2019.01.26-19.27.30:846][343]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 1.033
+[2019.01.26-19.27.30:846][343]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-19.27.34:057][536]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-19.27.34:057][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.27.34:089][536]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-19.27.34:089][536]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-19.27.34:113][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.27.34:156][539]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.01.26-19.27.41:273][966]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ground)
+[2019.01.26-19.28.01:784][192]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_32)
+[2019.01.26-19.28.04:149][331]Cmd: DELETE
+[2019.01.26-19.28.04:149][331]Cmd: ACTOR DELETE
+[2019.01.26-19.28.04:151][331]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2019.01.26-19.28.04:173][331]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.01.26-19.28.05:921][436]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ground)
+[2019.01.26-19.28.07:378][521]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Ground)
+[2019.01.26-19.28.07:398][521]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-19.28.17:321][115]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2019.01.26-19.28.18:462][181]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ground)
+[2019.01.26-19.28.19:865][263]Cmd: EDIT COPY
+[2019.01.26-19.28.21:123][338]Cmd: EDIT PASTE
+[2019.01.26-19.28.27:384][711]Cmd: EDIT PASTE
+[2019.01.26-19.28.34:650][145]Cmd: DELETE
+[2019.01.26-19.28.34:650][145]Cmd: ACTOR DELETE
+[2019.01.26-19.28.34:652][145]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2019.01.26-19.28.34:673][145]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2019.01.26-19.28.35:697][207]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ground2)
+[2019.01.26-19.28.36:252][238]Cmd: DELETE
+[2019.01.26-19.28.36:252][238]Cmd: ACTOR DELETE
+[2019.01.26-19.28.36:254][238]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2019.01.26-19.28.36:276][238]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.01.26-19.28.37:082][287]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ground)
+[2019.01.26-19.28.47:372][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.28.57:560][513]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ground)
+[2019.01.26-19.29.09:168][208]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_31)
+[2019.01.26-19.29.09:735][240]Cmd: DELETE
+[2019.01.26-19.29.09:735][240]Cmd: ACTOR DELETE
+[2019.01.26-19.29.09:737][240]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2019.01.26-19.29.09:758][240]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2019.01.26-19.29.10:915][310]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_30)
+[2019.01.26-19.29.11:415][338]Cmd: DELETE
+[2019.01.26-19.29.11:415][338]Cmd: ACTOR DELETE
+[2019.01.26-19.29.11:416][338]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2019.01.26-19.29.11:438][338]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2019.01.26-19.29.12:728][416]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (GlobalPostProcessSettings)
+[2019.01.26-19.29.19:003][788]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_29)
+[2019.01.26-19.29.19:391][808]Cmd: DELETE
+[2019.01.26-19.29.19:392][808]Cmd: ACTOR DELETE
+[2019.01.26-19.29.19:394][808]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2019.01.26-19.29.19:423][808]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2019.01.26-19.29.20:495][873]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_28)
+[2019.01.26-19.29.21:415][926]Cmd: DELETE
+[2019.01.26-19.29.21:415][926]Cmd: ACTOR DELETE
+[2019.01.26-19.29.21:416][926]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2019.01.26-19.29.21:436][926]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2019.01.26-19.29.22:259][976]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_27)
+[2019.01.26-19.29.22:525][990]Cmd: DELETE
+[2019.01.26-19.29.22:525][990]Cmd: ACTOR DELETE
+[2019.01.26-19.29.22:527][990]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2019.01.26-19.29.22:553][990]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.01.26-19.29.23:294][ 35]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_26)
+[2019.01.26-19.29.23:442][ 42]Cmd: DELETE
+[2019.01.26-19.29.23:442][ 42]Cmd: ACTOR DELETE
+[2019.01.26-19.29.23:444][ 42]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2019.01.26-19.29.23:465][ 42]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2019.01.26-19.29.24:622][112]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ground)
+[2019.01.26-19.29.44:253][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.29.56:259][  5]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.26-19.29.56:269][  5]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-19.29.56:269][  5]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.26-19.29.56:269][  5]PIE: New page: PIE session: 2DSideScrollerExampleMap (Jan 26, 2019, 9:29:56 AM)
+[2019.01.26-19.29.56:269][  5]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.01.26-19.29.56:272][  5]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002542s)
+[2019.01.26-19.29.56:272][  5]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.01.26-19.29.56:272][  5]LogPlayLevel: PIE: World Init took: (0.000485s)
+[2019.01.26-19.29.56:272][  5]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.003150s)
+[2019.01.26-19.29.56:297][  5]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.26-19.29.56:315][  5]LogInit: FAudioDevice initialized.
+[2019.01.26-19.29.56:348][  5]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.01.26-19.29.56:349][  5]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2019.01.26-14.29.56
+[2019.01.26-19.29.56:350][  5]LogWorld: Bringing up level for play took: 0.000745
+[2019.01.26-19.29.56:362][  5]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.549
+[2019.01.26-19.29.56:362][  5]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-19.30.39:071][567]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-19.30.39:071][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.30.39:103][567]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.26-19.30.39:104][567]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.01.26-19.30.39:127][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.26-19.30.39:176][570]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.01.26-19.30.42:643][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.30.42:901][785]LogSavePackage: Moving '../../../../../../Users/chris/Documents/Unreal Projects/GoingHome/Saved/2DSideScrollerExampleMapB0348FD0451919998665B8BEA9AD0E77.tmp' to '../../../../../../Users/chris/Documents/Unreal Projects/GoingHome/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2019.01.26-19.30.42:941][785]LogSavePackage: Moving '../../../../../../Users/chris/Documents/Unreal Projects/GoingHome/Saved/2DSideScrollerExampleMap_BuiltDaA4C308874E9FFECD35ABCCAF14A5C87C.tmp' to '../../../../../../Users/chris/Documents/Unreal Projects/GoingHome/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2019.01.26-19.32.28:672][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-19.33.08:322][220]LogSlate: Window 'Save Level As' being destroyed
+[2019.01.26-19.33.54:152][615]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (45.808 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.26-19.35.28:760][771]LogUProjectInfo: Found projects:
+[2019.01.26-19.35.45:403][374]LogSlate: Window 'Open Project' being destroyed
+[2019.01.26-19.40.08:518][430]LogSlate: Window 'Ground' being destroyed
+[2019.01.26-19.40.08:522][430]LogSlate: Window 'Ground' being destroyed
+[2019.01.26-19.40.42:912][411]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.022
